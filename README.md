@@ -1,2 +1,2 @@
-# three.js-Bruno-Simon-Course
+# three.js-Bruno-Simon
 All the codes related to the course are here.
